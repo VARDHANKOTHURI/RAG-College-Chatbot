@@ -1,0 +1,88 @@
+=== GREENWOOD INSTITUTE OF TECHNOLOGY ===
+ACADEMIC EXAMINATION REGULATIONS & EVALUATION GUIDELINES (R26)
+Document ID: GIT/EXAM/REG/2026 | Version: 2.1 | Academic Year: 2026-2027
+
+--- Page 1 ---
+# Section 1: Attendance Requirements & Condonation Rules
+
+Attendance in all theory lectures, tutorial classes, and laboratory practical sessions is mandatory.
+
+### Minimum Attendance Criteria
+1. A student is eligible to appear for the End-Semester Examinations (ESE) only if they secure a minimum aggregate attendance of 75% in all registered subjects of the semester.
+2. **Condonation of Attendance Shortage**:
+   - The Principal/Dean may condone a shortage of attendance between 65% and 74.9% on genuine medical grounds (supported by medical certificate from a registered physician within 3 working days of absence) or representing the college in state/national academic or sports competitions.
+   - Condonation Fee: INR 1,500 per semester.
+   - Attendance below 65% CANNOT be condoned under any circumstances. Students with < 65% attendance will be detained for the semester and must repeat the semester in the subsequent academic year.
+
+--- Page 2 ---
+# Section 2: Continuous Internal Evaluation (CIE) & Semester End Exams (SEE)
+
+Evaluation in each course is divided into Continuous Internal Evaluation (40 Marks) and Semester End Examination (60 Marks), totaling 100 Marks per course.
+
+### Internal Assessment Breakdown (40 Marks)
+- Mid-Term Examination 1 (Descriptive + Objective): 15 Marks (Conducted in 8th week)
+- Mid-Term Examination 2 (Descriptive + Objective): 15 Marks (Conducted in 16th week)
+- Continuous Assignments / Quizzes: 5 Marks
+- Seminar / Class Participation: 5 Marks
+- Average or best-of policy: Weightage of 80% for the best mid-term score + 20% for the second mid-term score.
+
+### Passing Minimum Standards
+- A student must secure at least 35% (21 marks out of 60) in the Semester End Examination.
+- A student must secure an overall minimum of 40% (40 marks out of 100 combined CIE + SEE) to earn credits in a theory course.
+- For Practical / Lab courses: Minimum 50% in CIE and 50% in External Lab Viva/Exam.
+
+--- Page 3 ---
+# Section 3: Grading System & GPA Calculation
+
+The institution adopts a 10-point absolute letter grading system in accordance with UGC Choice Based Credit System (CBCS).
+
+### Letter Grades & Grade Points
+- **O (Outstanding)**: 90% to 100% | Grade Point: 10.0
+- **A+ (Excellent)**: 80% to 89% | Grade Point: 9.0
+- **A (Very Good)**: 70% to 79% | Grade Point: 8.0
+- **B+ (Good)**: 60% to 69% | Grade Point: 7.0
+- **B (Above Average)**: 50% to 59% | Grade Point: 6.0
+- **C (Pass)**: 40% to 49% | Grade Point: 5.0
+- **F (Fail)**: Less than 40% | Grade Point: 0.0 (Backlog)
+- **Ab (Absent)**: Grade Point: 0.0
+
+### Award of Degree Classifications
+- **First Class with Distinction**: CGPA >= 8.00 with all courses cleared in the first attempt without any history of backlogs.
+- **First Class**: CGPA >= 6.75
+- **Second Class**: 5.75 <= CGPA < 6.75
+- **Pass Class**: 5.00 <= CGPA < 5.75
+
+--- Page 4 ---
+# Section 4: Examination Hall Tickets, Revaluation & Challenge Valuation
+
+### Hall Ticket Issuance
+- Hall tickets are issued digitally 7 days prior to examination commencement on the ERP portal.
+- Students must have cleared all tuition fees, hostel dues, and library book loans to download their hall ticket.
+- Carrying a physical printed hall ticket and college student ID card inside the examination hall is mandatory.
+
+### Revaluation & Photocopy of Answer Scripts
+- Students dissatisfied with their results may apply for **Recounting** or **Revaluation** within 10 days of result declaration.
+- Recounting Fee: INR 300 per paper.
+- Revaluation Fee: INR 1,200 per paper.
+- Photocopy of Evaluated Answer Script: INR 800 per paper.
+- If revaluation results in a mark change greater than 15% of maximum marks, the paper is referred to a third evaluator and the new average is awarded.
+- **Challenge Valuation**: INR 10,000 per paper. If the student gets an increase of 20% or more, 80% of the challenge fee (INR 8,000) is refunded to the student.
+
+--- Page 5 ---
+# Section 5: Academic Calendar & Examination Timetable (2026)
+
+### Odd Semester Key Dates (Monsoon 2026)
+- Commencement of Classwork: July 20, 2026
+- Mid-Term 1 Examinations: September 14 – September 19, 2026
+- Mid-Term 2 Examinations: November 9 – November 14, 2026
+- Practical Lab Examinations: November 23 – November 28, 2026
+- Semester End Theory Examinations: December 1 – December 18, 2026
+- Winter Vacation: December 21 – January 3, 2027
+
+### Even Semester Key Dates (Spring 2027)
+- Commencement of Classwork: January 4, 2027
+- Mid-Term 1 Examinations: March 1 – March 6, 2027
+- TechSpectra Fest: March 25 – March 27, 2027
+- Mid-Term 2 Examinations: April 26 – May 1, 2027
+- Semester End Theory Examinations: May 17 – June 5, 2027
+- Summer Internships & Vacation: June 7 – July 18, 2027

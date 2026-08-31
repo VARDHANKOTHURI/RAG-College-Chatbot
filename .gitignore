@@ -1,0 +1,41 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.venv/
+
+# Vector Store & Local Database Files
+data/qdrant_storage/
+data/local_db/
+data/uploads/*
+!data/sample_documents/
+!data/sample_documents/*
+!data/uploads/.gitkeep
+
+# IDEs & System Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary Files
+*.log
+scratch/
+.system_generated/
+
+# Node / Frontend Build (if used)
+node_modules/
+dist/
+build/
+.next/

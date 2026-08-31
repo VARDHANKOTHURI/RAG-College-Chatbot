@@ -1,0 +1,83 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the annual hostel fee for a 2-sharing AC room?",
+    "expected_answer_keywords": ["1,20,000", "2-sharing", "ac", "electricity"],
+    "expected_document": "College_Handbook_2026.txt",
+    "expected_page": 5,
+    "category": "Hostel",
+    "is_answerable": true
+  },
+  {
+    "id": "q2",
+    "question": "What is the minimum attendance percentage required to appear for semester end exams?",
+    "expected_answer_keywords": ["75%", "attendance", "minimum"],
+    "expected_document": "Academic_Examination_Regulations_2026.txt",
+    "expected_page": 1,
+    "category": "Exams",
+    "is_answerable": true
+  },
+  {
+    "id": "q3",
+    "question": "What is the annual tuition fee for B.Tech CSE?",
+    "expected_answer_keywords": ["1,45,000", "cse", "academic year"],
+    "expected_document": "College_Handbook_2026.txt",
+    "expected_page": 3,
+    "category": "Fees",
+    "is_answerable": true
+  },
+  {
+    "id": "q4",
+    "question": "When are the Odd Semester End theory examinations scheduled for 2026?",
+    "expected_answer_keywords": ["December 1", "December 18", "2026"],
+    "expected_document": "Academic_Examination_Regulations_2026.txt",
+    "expected_page": 5,
+    "category": "Exams",
+    "is_answerable": true
+  },
+  {
+    "id": "q5",
+    "question": "What is the fee for examination revaluation per paper?",
+    "expected_answer_keywords": ["1,200", "revaluation"],
+    "expected_document": "Academic_Examination_Regulations_2026.txt",
+    "expected_page": 4,
+    "category": "Exams",
+    "is_answerable": true
+  },
+  {
+    "id": "q6",
+    "question": "What was the highest international placement package offered in 2025-2026?",
+    "expected_answer_keywords": ["52.0 LPA", "Microsoft", "international"],
+    "expected_document": "College_Handbook_2026.txt",
+    "expected_page": 6,
+    "category": "Placements",
+    "is_answerable": true
+  },
+  {
+    "id": "q7",
+    "question": "What are the rules and late fine for tuition fee payment?",
+    "expected_answer_keywords": ["July 31st", "December 31st", "500", "50 per day"],
+    "expected_document": "College_Handbook_2026.txt",
+    "expected_page": 3,
+    "category": "Fees",
+    "is_answerable": true
+  },
+  {
+    "id": "q8",
+    "question": "What is the capital city of planet Jupiter and who is the governor?",
+    "expected_answer_keywords": ["couldn't find this information", "contact the concerned department"],
+    "expected_document": null,
+    "expected_page": null,
+    "category": "Out-of-Domain",
+    "is_answerable": false
+  },
+  {
+    "id": "q9",
+    "question": "How do I book a helicopter flight from the college rooftop to Tokyo?",
+    "expected_answer_keywords": ["couldn't find this information", "contact the concerned department"],
+    "expected_document": null,
+    "expected_page": null,
+    "category": "Out-of-Domain",
+    "is_answerable": false
+  }
+]

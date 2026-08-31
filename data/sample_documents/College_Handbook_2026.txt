@@ -1,0 +1,156 @@
+=== GREENWOOD INSTITUTE OF TECHNOLOGY ===
+OFFICIAL STUDENT HANDBOOK & ACADEMIC CODE 2026-2027
+Document Reference: GIT/DOC/2026/01 | Version: 1.0 | Academic Year: 2026-2027
+
+--- Page 1 ---
+# Section 1: Institutional Overview & General Information
+
+Greenwood Institute of Technology (GIT), established in 1998, is an autonomous premier technological institution accredited with NAAC 'A++' grade and approved by AICTE. The campus spans 65 acres with state-of-the-art research laboratories, innovation incubators, sports complexes, and residential hostels.
+
+### Campus Timings & Working Hours
+- Academic Working Hours: 8:45 AM to 4:30 PM (Monday through Friday)
+- Central Library: 8:00 AM to 10:00 PM on weekdays; 9:00 AM to 5:00 PM on Saturdays and Sundays.
+- Administrative Offices: 9:00 AM to 5:00 PM on all working days.
+- Student Health Center: 24x7 emergency medical services with on-duty physicians and ambulance support.
+
+### Contact Directory
+- Admissions Office: admissions@greenwood.edu | Phone: +91 40 2345 6701 | Block A, Room 102
+- Dean of Academic Affairs: academics@greenwood.edu | Phone: +91 40 2345 6705 | Admin Block, 2nd Floor
+- Controller of Examinations (CoE): coe@greenwood.edu | Exam Cell, Block B, Ground Floor
+- Training & Placement Cell (TPO): placements@greenwood.edu | TPO Tower, 3rd Floor
+- Chief Warden (Hostels): hostelwarden@greenwood.edu | Phone: +91 40 2345 6780 | Central Hostel Office
+
+--- Page 2 ---
+# Section 2: Admissions & Eligibility Criteria
+
+Admissions at Greenwood Institute of Technology are strictly merit-based through state/national entrance examinations and authorized management quotas.
+
+### Undergraduate (B.Tech) Programs & Seats
+1. Computer Science & Engineering (CSE) — Intake: 240 seats
+2. CSE with Artificial Intelligence & Machine Learning (CSE-AIML) — Intake: 180 seats
+3. CSE with Data Science (CSE-DS) — Intake: 120 seats
+4. Electronics & Communication Engineering (ECE) — Intake: 180 seats
+5. Electrical & Electronics Engineering (EEE) — Intake: 120 seats
+6. Mechanical Engineering (MECH) — Intake: 60 seats
+7. Civil Engineering (CIVIL) — Intake: 60 seats
+
+### Eligibility for B.Tech Admissions
+- Candidates must have passed 10+2 / Intermediate Examination with Mathematics, Physics, and Chemistry (MPC) with a minimum aggregate score of 60% (50% for reserved categories).
+- Valid rank in state entrance exam (EAMCET/CET) or JEE Main.
+- Management quota admissions require registration through the college portal with a minimum 70% aggregate in Class 12 PCM.
+
+### Documents Required at the Time of Admission
+1. 10th / SSC Marks Memo (Original + 3 Copies)
+2. 10+2 / Intermediate Marks Memo (Original + 3 Copies)
+3. Transfer Certificate (TC) and Conduct Certificate from previous institution
+4. Entrance Exam Rank Card & Hall Ticket
+5. Caste/Category Certificate and Income Certificate (if applying for fee reimbursement)
+6. Aadhaar Card copy and 6 Passport-size color photographs
+7. Migration Certificate (for students from boards outside the state)
+
+--- Page 3 ---
+# Section 3: Fee Structure & Payment Policies
+
+All academic fees must be remitted exclusively through the official college ERP portal (https://erp.greenwood.edu) via Net Banking, UPI, or Demand Draft drawn in favor of "Greenwood Institute of Technology" payable at Hyderabad.
+
+### Annual Academic Tuition Fees (2026-2027)
+- B.Tech (CSE, CSE-AIML, CSE-DS, ECE): INR 1,45,000 per academic year.
+- B.Tech (EEE, MECH, CIVIL): INR 1,15,000 per academic year.
+- M.Tech (All Specializations): INR 90,000 per academic year.
+- MBA & MCA Programs: INR 85,000 per academic year.
+
+### One-Time & Recurring Ancillary Fees
+- One-Time Admission & Registration Fee: INR 10,000 (non-refundable)
+- Refundable Laboratory & Library Caution Deposit: INR 10,000 (refundable upon graduation/clearing no-dues)
+- Annual Student Activities, Sports & Cultural Fee: INR 5,000
+- Examination Fee per Semester: INR 2,200 per regular semester; supplementary exam fee is INR 500 per paper.
+
+### Payment Deadlines & Late Penalties
+- Odd Semester Tuition Fee: Due by July 31st each year.
+- Even Semester Tuition Fee: Due by December 31st each year.
+- Grace Period: 10 days with a late fine of INR 500; payments delayed beyond 30 days attract an additional penalty of INR 50 per day of delay.
+
+--- Page 4 ---
+# Section 4: Scholarships & Financial Assistance
+
+Greenwood Institute offers comprehensive merit and need-based financial aid to support meritorious students.
+
+### Institutional Merit Scholarships
+1. **Chairman's Platinum Excellence Scholarship**: 100% Tuition Fee Waiver for candidates with State Entrance Rank below 500 or JEE Main Percentile above 98.0.
+2. **Dean's Gold Scholarship**: 50% Tuition Fee Waiver for candidates with State Entrance Rank between 501 and 1,500.
+3. **Academic Consistency Award**: INR 25,000 cash grant for students securing Semester SGPA > 9.50 in any regular semester.
+
+### Need-Based & Special Financial Aid
+- **Merit-cum-Means Grant**: Up to 40% tuition assistance for students whose annual family income is below INR 2,50,000 and maintain minimum SGPA of 7.50.
+- **Sports Quota Scholarship**: 50% fee concession for national-level sports medalists; 25% for state-level representatives.
+- **State Government Fee Reimbursement**: Eligible SC/ST/BC/EBC/Minority students receive full or partial tuition reimbursement as per state government welfare guidelines.
+
+--- Page 5 ---
+# Section 5: Residential Hostel Facilities & Guidelines
+
+The campus provides separate on-campus accommodation blocks for boys (Nilgiri & Aravalli Blocks) and girls (Sahyadri & Vindhya Blocks) accommodating over 2,200 students.
+
+### Hostel Fee Structure (Annual 2026-2027)
+- 4-Sharing Standard Room (Non-AC): INR 75,000 per year (includes 4 meals daily).
+- 3-Sharing Deluxe Room (Non-AC): INR 88,000 per year.
+- 2-Sharing Premium Room (AC): INR 1,20,000 per year (electricity charged as per sub-meter consumption).
+- Refundable Hostel Caution Deposit: INR 8,000 (one-time).
+
+### Hostel Rules & Discipline
+1. Night Curfew: All hostel residents must enter their respective hostel blocks before 9:00 PM on weekdays and 9:30 PM on weekends.
+2. Biometric Attendance: Recorded daily between 8:30 PM and 9:30 PM.
+3. Outing & Leave Permission: Gate passes must be applied online via the College ERP at least 24 hours in advance and requires digital approval from the parent/guardian.
+4. Prohibited Items: Electric heaters, immersion rods, induction stoves, intoxicating substances, alcohol, and tobacco are strictly prohibited. Possession will result in immediate expulsion from the hostel.
+5. Mess Menu: South Indian, North Indian, and continental breakfast options available daily with hygienic vegetarian and non-vegetarian (3 days/week) spreads.
+
+--- Page 6 ---
+# Section 6: Training, Internships & Placements
+
+The Training and Placement Cell (TPO) bridges the gap between academic curriculum and corporate requirements, ensuring industry-readiness.
+
+### Placement Statistics (2025-2026 Season)
+- Overall Placement Rate: 94.2% across eligible engineering graduates.
+- Highest International Package: INR 52.0 LPA (Offered by Microsoft Redwest).
+- Highest Domestic Package: INR 44.0 LPA (Offered by Amazon).
+- Average Package (CSE / IT): INR 8.6 LPA.
+- Overall College Average Package: INR 6.8 LPA.
+- Total Recruiters Visited: 160+ top tier companies including Google, TCS, Infosys, Wipro, Cognizant, Deloitte, Oracle, Accenture, L&T, and Qualcomm.
+
+### Placement Eligibility Criteria
+- Minimum Cumulative CGPA of 6.50 with zero active backlogs at the start of the 7th semester.
+- Minimum 75% attendance in all TPO soft skills, verbal ability, and coding training bootcamps.
+- One Student One Offer Policy: Once a student receives an offer above INR 8 LPA (Dream Offer), they are eligible to appear only for Super Dream companies (> INR 18 LPA).
+
+--- Page 7 ---
+# Section 7: Student Clubs, Cultural Events & Technical Fests
+
+Campus life at GIT offers a dynamic blend of technical innovation, creative expression, and sports leadership.
+
+### Major Annual Festivals
+- **TechSpectra**: Annual National Level Technical Symposium held in March. Features hackathons, robotics combat, paper presentations, and coding marathons with cash pools exceeding INR 5,00,000.
+- **Rhythm & Resonance**: 3-day Annual Cultural Fest celebrated in October featuring music concerts, dance battles, drama, and celebrity performances.
+- **Urja Sports Meet**: Inter-collegiate sports tournament featuring cricket, football, basketball, badminton, table tennis, and athletics.
+
+### Active Student Clubs
+1. **Google Developer Student Club (GDSC)**: Focuses on Android, Cloud, Web development, and AI workshops. (Coordinator: gdsc@greenwood.edu)
+2. **ACM Student Chapter**: Competitive programming, algorithmic problem solving, and ACM-ICPC training.
+3. **Robotics & IoT Club (RoboTech)**: Drones, embedded systems, IoT sensors, and autonomous rover projects.
+4. **Literary & Debating Society (LitSoc)**: MUNs, parliamentary debates, creative writing, and public speaking.
+5. **Aura Dance & Music Crew**: Classical and contemporary cultural performance troupe.
+6. **National Service Scheme (NSS) & Green Club**: Community service, blood donation camps, and environmental plantation drives.
+
+--- Page 8 ---
+# Section 8: Central Library & Digital Resources
+
+The Dr. A.P.J. Abdul Kalam Central Library is a fully automated knowledge resource center with RFID technology.
+
+### Resources & Collections
+- Physical Book Titles: Over 85,000 volumes covering Engineering, Management, Sciences, and Humanities.
+- Digital Library: 60 high-speed terminals with access to IEEE Xplore, ScienceDirect, SpringerLink, ACM Digital Library, and Scopus indexed journals.
+- NPTEL & SWAYAM Local Chapter: Access to video lectures, lecture notes, and certification course materials.
+
+### Library Rules & Borrowing Privileges
+- Undergraduate Students: 4 books for a duration of 14 days, renewable once if no reservation exists.
+- Postgraduate & Research Scholars: 6 books for 30 days.
+- Overdue Fine: INR 2 per book per day for the first week; INR 5 per day thereafter.
+- Quiet Zones: Absolute silence must be maintained in Reading Halls 1 & 2. Mobile phones must remain on silent mode.
