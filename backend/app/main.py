@@ -85,11 +85,19 @@ app.include_router(collections_router, prefix=settings.API_PREFIX)
 app.include_router(feedback_router, prefix=settings.API_PREFIX)
 app.include_router(admin_router, prefix=settings.API_PREFIX)
 
-# Static & Upload file serving
-os.makedirs(settings.UPLOAD_DIR, exist_ok=True)
-os.makedirs(settings.STATIC_DIR, exist_ok=True)
-app.mount("/uploads", StaticFiles(directory=settings.UPLOAD_DIR), name="uploads")
-app.mount("/static", StaticFiles(directory=settings.STATIC_DIR), name="static")
+# Safe Static & Upload directory mounts (handles serverless read-only paths)
+try:
+    os.makedirs(settings.UPLOAD_DIR, exist_ok=True)
+    if os.path.exists(settings.UPLOAD_DIR):
+        app.mount("/uploads", StaticFiles(directory=settings.UPLOAD_DIR), name="uploads")
+except Exception as e:
+    logger.warning(f"Could not mount /uploads: {e}")
+
+try:
+    if os.path.exists(settings.STATIC_DIR):
+        app.mount("/static", StaticFiles(directory=settings.STATIC_DIR), name="static")
+except Exception as e:
+    logger.warning(f"Could not mount /static: {e}")
 
 @app.get("/")
 async def serve_index():

@@ -4,7 +4,7 @@ import asyncio
 import uuid
 from typing import Dict, Any, List, Optional
 from datetime import datetime
-from .settings import settings
+from .settings import settings, IS_SERVERLESS
 import logging
 
 logger = logging.getLogger("college_chatbot.database")
@@ -29,9 +29,12 @@ class LocalJsonCollection:
             self.data = {}
 
     def _save(self):
-        os.makedirs(os.path.dirname(self.db_file), exist_ok=True)
-        with open(self.db_file, "w", encoding="utf-8") as f:
-            json.dump(self.data, f, default=str, indent=2)
+        try:
+            os.makedirs(os.path.dirname(self.db_file), exist_ok=True)
+            with open(self.db_file, "w", encoding="utf-8") as f:
+                json.dump(self.data, f, default=str, indent=2)
+        except Exception as e:
+            logger.warning(f"Could not save local JSON db {self.db_file}: {e}")
 
     def _matches(self, doc: dict, query: dict) -> bool:
         for k, v in query.items():
@@ -205,7 +208,7 @@ class Database:
         self.is_fallback = True
         self.db = None
         self._collections: Dict[str, Any] = {}
-        self.storage_dir = "./data/local_db"
+        self.storage_dir = "/tmp/local_db" if IS_SERVERLESS else "./data/local_db"
 
     async def connect(self):
         if settings.MONGODB_URI:
@@ -223,7 +226,10 @@ class Database:
 
         self.is_connected = True
         self.is_fallback = True
-        os.makedirs(self.storage_dir, exist_ok=True)
+        try:
+            os.makedirs(self.storage_dir, exist_ok=True)
+        except Exception:
+            pass
         logger.info("Using embedded local database storage.")
 
     def get_collection(self, name: str):
